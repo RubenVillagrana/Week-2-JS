@@ -24,6 +24,7 @@ console.log(5 < 10)
 
 // 6. Write code to output the result of the comparison:
 // 10 is greater than 5.
+console.log( 10 > 5)
 
 // 7. Write code to output the result of the comparison:
 // "Apples" is NOT equal to "Oranges"
